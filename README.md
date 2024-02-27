@@ -13,3 +13,9 @@ My Screening.ipynb
 Clase RAG OpenAI.ipynb
 
 Clase RAG GCP.ipynb
+
+Clase Pandas Agent OpenAI.ipynb
+
+Clase Agentes GCP.ipynb
+
+Clase Streamlit Chat.ipynb
