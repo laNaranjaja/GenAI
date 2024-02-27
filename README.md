@@ -9,3 +9,7 @@ GenAI Replicate Demo.ipynb
 Streamlit CV Screening.ipynb
 
 My Screening.ipynb
+
+Clase RAG OpenAI.ipynb
+
+Clase RAG GCP.ipynb
