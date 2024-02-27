@@ -19,3 +19,11 @@ Clase Pandas Agent OpenAI.ipynb
 Clase Agentes GCP.ipynb
 
 Clase Streamlit Chat.ipynb
+
+Clase Text to Image - OpenAI.ipynb
+
+Clase Text to Image Replicate.ipynb
+
+Speech to Text Clase.ipynb
+
+Text to Speech Clase.ipynb
